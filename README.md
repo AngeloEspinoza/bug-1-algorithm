@@ -7,8 +7,7 @@
 </p>
 
 ## Description
-A 2D simulation in RobotBASIC from the book [Principles of robot motion: Theory, algorithms, and implementation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4fvo61oAAAAJ&citation_for_view=4fvo61oAAAAJ:u5HHmVD_uO8C) by
-H. Choset, K. M. Lynch, S. Hutchinson, G. A. Kantor, and W. Burgard
+A 2D simulation in RobotBASIC from the book [Principles of robot motion: Theory, algorithms, and implementation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4fvo61oAAAAJ&citation_for_view=4fvo61oAAAAJ:u5HHmVD_uO8C) by H. Choset, K. M. Lynch, S. Hutchinson, G. A. Kantor, and W. Burgard.
 
 Essentially, the Bug1 consists of three principal behaviours:
 
